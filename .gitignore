@@ -1,0 +1,49 @@
+# Entornos virtuales
+venv/
+.env/
+.env.*
+
+# Archivos de configuración locales
+*.env
+*.local
+*.secret
+
+# __pycache__ y archivos compilados
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Archivos temporales del sistema operativo
+.DS_Store
+Thumbs.db
+
+# Archivos de logs
+*.log
+
+# Archivos de salida de modelos grandes
+*.safetensors
+*.pt
+*.bin
+
+# Archivos de Streamlit
+.streamlit/
+*.pydevproject
+*.idea/
+*.vscode/
+*.mypy_cache/
+*.pytest_cache/
+*.coverage
+
+# Archivos de HuggingFace cache
+~/.cache/huggingface/
+huggingface/
+
+# Salidas de Uvicorn/Hot Reload
+*.pid
+*.sock
+
+# Carpetas creadas por Jupyter (si usas notebooks)
+.ipynb_checkpoints/
+
+# Archivos de ejecución (si se usaron)
+nohup.out
