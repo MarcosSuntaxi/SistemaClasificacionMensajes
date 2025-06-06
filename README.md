@@ -2,7 +2,8 @@
 
 Este proyecto es una aplicación de clasificación de texto que permite determinar si un mensaje ingresado es **Urgente**, **Moderado** o **Normal**, usando un modelo preentrenado de lenguaje natural.  
 La solución incluye una **API REST desarrollada en FastAPI** y un **frontend interactivo en Streamlit**.
-
+![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## 🚀 Tecnologías utilizadas
