@@ -24,7 +24,7 @@ La solución incluye una **API REST desarrollada en FastAPI** y un **frontend in
    - **Moderado**
 4. Se muestra la categoría predicha junto con los puntajes por cada etiqueta.
 
-
+![alt text](image.png)
 ---
 
 ## ⚙️ Instalación
@@ -39,9 +39,10 @@ cd clasificador_mensajes
 ### 2. Crear entorno virtual e instalar dependencias
 python -m venv venv
 venv\Scripts\activate  # En Windows
-# source venv/bin/activate  # En Linux/Mac
 
+```bash
 pip install -r requirements.txt
+```
 
 ### 3. Ejecutar el backend (API FastAPI)
 ```bash
