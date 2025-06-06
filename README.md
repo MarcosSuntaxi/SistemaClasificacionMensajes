@@ -4,10 +4,6 @@ Este proyecto es una aplicación de clasificación de texto que permite determin
 La solución incluye una **API REST desarrollada en FastAPI** y un **frontend interactivo en Streamlit**.
 ---
 
-![alt text](image.png)
-![alt text](image-1.png)
----
-
 ## 🚀 Tecnologías utilizadas
 
 - [FastAPI](https://fastapi.tiangolo.com/) – Backend API
@@ -26,8 +22,10 @@ La solución incluye una **API REST desarrollada en FastAPI** y un **frontend in
    - **Normal**
    - **Moderado**
 4. Se muestra la categoría predicha junto con los puntajes por cada etiqueta.
+---
 
 ![alt text](image.png)
+![alt text](image-1.png)
 ---
 
 ## ⚙️ Instalación
